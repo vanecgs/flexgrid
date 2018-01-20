@@ -26,10 +26,3 @@ html, body {
 .container > div:nth-child(4n) {
     background-color: #ffcc5c;
 }
-
-.container {
-    display: grid;
-    grid-template-columns: 200px auto 50px;
-    grid-template-rows: 50px 50px 200px;
-    grid-gap: 3px;
-}
